@@ -1,0 +1,15 @@
+Umur,Pendapatan,Pelajar,Credit Rating,Membeli Komputer
+Muda,Tinggi,Tidak,Fair,Tidak
+Muda,Tinggi,Tidak,Excellent,Tidak
+Paruhbaya,Tinggi,Tidak,Fair,Ya
+Tua,Menengah,Tidak,Fair,Ya
+Tua,Rendah,Ya,Fair,Ya
+Tua,Rendah,Ya,Excellent,Tidak
+Paruhbaya,Rendah,Ya,Excellent,Ya
+Muda,Menengah,Tidak,Fair,Tidak
+Muda,Rendah,Ya,Fair,Ya
+Tua,Menengah,Ya,Fair,Ya
+Muda,Menengah,Ya,Excellent,Ya
+Paruhbaya,Menengah,Tidak,Excellent,Ya
+Paruhbaya,Tinggi,Ya,Fair,Ya
+Tua,Menengah,Tidak,Excellent,Tidak
